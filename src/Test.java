@@ -3,6 +3,9 @@ class Test
     public static void main(String[] args)
     {
         testSum();
+        testDivide();
+        testMultiply();
+        testSubtract();
     }
 
     private static void testSum()
